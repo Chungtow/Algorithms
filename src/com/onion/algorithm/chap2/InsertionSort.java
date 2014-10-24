@@ -1,7 +1,7 @@
 package com.onion.algorithm.chap2;
 
 /**
- * ²åÈëÅÅĞòËã·¨
+ * æ’å…¥æ’åº
  * @author yushuo.lct
  *
  */
