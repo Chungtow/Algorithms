@@ -1,4 +1,4 @@
-package com.onion.algorithm.chap2;
+package com.onion.algorithm.sort;
 
 /**
  * 插入排序
